@@ -21,7 +21,7 @@
     <link href="/2025/06/01/%E6%B5%8B%E8%AF%95/"/>
     <url>/2025/06/01/%E6%B5%8B%E8%AF%95/</url>
     
-    <content type="html"><![CDATA[<ul><li><p>这是一个测试 blog</p></li><li><p>这是无序列表，他很好用</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>这是一个测试 blog</p></li><li><p>这是无序列表，他很好用</p></li></ul><p>$\LaTeX$</p>]]></content>
     
     
     
